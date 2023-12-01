@@ -1,12 +1,12 @@
 <p align="center">
-<img width="561" alt="game" src="https://github.com/janrainjer/programming-project/assets/88389821/f0e7c79b-62e3-4962-ba5d-44de631fb70c">
+<img width="1037" alt="Screenshot 2566-12-02 at 01 02 48" src="https://github.com/janrainjer/linear-algebra-project/assets/88389821/3a6cadfc-93a0-4eae-b53a-9790ae3341de">
 </p>
 
 
 # Linear Algebra - Project
 Elementary Differential Equations and Linear Algebra (01076032), Computer Engineering 60 at KMITL.
 
-- This repository is an object-oriented programming project for the implementation of software in Java using **JavaFX** **library** It will help develop the code to have a stable structure.
+- The project aims to predict the risk of developing lung cancer. By examining and analyzing data patterns divided into age, gender, and various symptoms that are risk factors for lung cancer, for example, smoking, allergies, anxiety, coughing, drinking alcohol, etc., together with the use of mathematical principles such as Pearson's Similarity, Logistic Regression, and Confusion Matrix to apply the above data formats. to process together This is one of the tools that can help you decide to detect lung cancer and provide timely treatment.  
 
 ## Project Directory 
 - [Source code](source-code)
