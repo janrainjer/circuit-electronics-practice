@@ -1,2 +1,2 @@
-# Circuit Electronics Practice
+# Linear Algebra - Project
 
