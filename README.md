@@ -17,6 +17,6 @@ Elementary Differential Equations and Linear Algebra (01076032), Computer Engine
 
 ## Member Group
 - Burit Seriwattana
-- Phattharaphon Chandecha (Me)
+- Phattharaphorn Chandecha (Me)
 - Wattikorn Charoenkan
 - Wirun Sampaothong
