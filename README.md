@@ -1,2 +1,2 @@
-# circuit-electronics-practice
-⚡️🔩
+# Circuit Electronics Practice
+
